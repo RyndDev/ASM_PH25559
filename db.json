@@ -1,0 +1,11 @@
+{
+  "products": [
+    {
+      "name": "aaa",
+      "price": "2222",
+      "image": "https://images.prismic.io/ionicframeworkcom/d3d3f7a3-023b-4cdf-93af-84674f623818_portals+ad.png?auto=compress,format&rect=0,0,280,200&w=280&h=200",
+      "desc": "mô tả abc",
+      "id": 5
+    }
+  ]
+}
